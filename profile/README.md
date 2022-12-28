@@ -14,5 +14,11 @@
      <li><a href="https://expertcoderz.com/default/shopify-apps.html">Buy best Shopify Apps</a>-Our Shopify apps help you to Boost your sale.</li>
      <li><a href="https://bappadesigns.com/">Get your website</a>- If you are looking for fully functional website fast and very efficient cost do visit our website and ask for Demo.</li>
        <li><a href="https://www.upwork.com/ag/expoundsofttechsolutionpvtltd/">99% Customer Success</a>- We maintain 99% Customer success, we gave service to more than 2000 customers around the Globe</li>
-
 </ul>
+
+
+<h2>Complementary Services</h2>
+
+<ul><li><a href="https://expertcoderz.com/free-2-hours-development.html">Free Service</a> - Try our 2 hours Free Service you can use for any development work.</li>
+<li><a href="https://expertcoderz.com/free-installation.html">Free Installation</a> - We will do any extension/app installation in your website without any charge.
+  </li></ul>
