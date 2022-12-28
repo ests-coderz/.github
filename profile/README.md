@@ -20,5 +20,7 @@
 <h2>Complementary Services</h2>
 
 <ul><li><a href="https://expertcoderz.com/free-2-hours-development.html">Free Service</a> - Try our 2 hours Free Service you can use for any development work.</li>
-<li><a href="https://expertcoderz.com/free-installation.html">Free Installation</a> - We will do any extension/app installation in your website without any charge.
+<li><a href="https://expertcoderz.com/free-installation.html">Free Installation*</a> - We will do any extension/app installation in your website without any charge.
   </li></ul>
+  
+<h2>Technologies we work</h2>
