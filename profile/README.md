@@ -8,4 +8,7 @@
 
 
 <h2>Our product and services</h2>
-<p></p>
+<ul><li><a href="https://expertcoderz.com/default/magento2-extensions.html">Adobe/Magento Commerce Extensions</a></li>
+     <li><a href="https://expertcoderz.com/default/shopify-apps.html">Buy best Shopify Apps</a></li>
+  <li><a href="https://bappadesigns.com/">Get your website</a></li>
+</ul>
